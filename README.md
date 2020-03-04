@@ -6,4 +6,4 @@ NAME: 林靖國 (Jerry)
 
 StuID: B06703042
 
-MAJOR: finance department
+MAJOR: Finance Department
