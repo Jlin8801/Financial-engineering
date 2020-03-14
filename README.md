@@ -8,4 +8,4 @@ StuID: B06703042
 
 MAJOR: Finance Department
 
-Code will be executed on PYTHON
+The code will be executed on PYTHON
