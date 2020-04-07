@@ -19,9 +19,13 @@ Basic Info.
 ***
 HW File
 =======
-  [HW1 平均本金攤還法]: [https://markdown.tw/#autoescape]
+* [HW1 平均本金攤還法][1]
+* [1][2]
 
-  [1]: http://google.com/        "Google"
+
+  [1]: [https://markdown.tw/#autoescape]
+
+  [2]: http://google.com/        "Google"
 
 I get 10 times more traffic from [Google] [1] than from
 [Yahoo] [2] or [MSN] [3].
