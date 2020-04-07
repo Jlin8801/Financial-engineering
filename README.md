@@ -4,9 +4,9 @@ Jlin8801
 > My Fun Fact: I am new in Github.
 > This repo is about financial engineering.
 
-Basic Info.
-========
 <ol>
+Basic Info.
+
 * NAME : 林靖國 (Jerry)
 
 * StUID : B06703042
@@ -14,11 +14,5 @@ Basic Info.
 * MAJOR : Finance
 
 * lANGUAGE : PYTHON
-
-<ol>
-<li>Bird</li>
-<li>McHale</li>
-<li>Parish</li>
-</ol>
 
 
