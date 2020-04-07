@@ -1,7 +1,11 @@
 Jlin8801
 ========
+
 > My Fun Fact: I am new in Github.
 > This repo is about financial engineering.
+
+Basic information
+========
 
 > * NAME : 林靖國 (Jerry)
 >
