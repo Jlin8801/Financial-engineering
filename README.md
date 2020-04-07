@@ -13,10 +13,10 @@ Basic Info.
 
 * MAJOR : Finance
 
-* lANGUAGE : PYTHON
+* LANGUAGE : PYTHON
 </ol>
 
 ***
 HW File
 =======
-[https://markdown.tw/#autoescape]
+* HW1 平均本金攤還法 [https://markdown.tw/#autoescape]
