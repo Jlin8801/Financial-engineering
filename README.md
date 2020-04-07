@@ -23,7 +23,7 @@ HW File
 * [1][2]
 
 
-  [1]: [https://markdown.tw/#autoescape] "HW1 平均本金攤還法"
+  [1]: https://markdown.tw/#autoescape "HW1 平均本金攤還法"
 
   [2]: http://google.com/        "Google"
 
