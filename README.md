@@ -7,18 +7,22 @@ Jlin8801
 <ol>
 Basic Info.
 
-* NAME : 林靖國 (Jerry)
+* Name : 林靖國 Jerry
 
-* StUID : B06703042
+* StuId : B06703042
 
-* MAJOR : Finance
+* Major : Finance
 
-* LANGUAGE : PYTHON
+* Language : PYTHON
 </ol>
 
 ***
 HW File
 =======
+|HW   |  流程圖 | 學習歷程  | 程式碼|
+|:---:|  :---: | :---:   | :---: |
+|平均本利攤還法|
+
 * [HW1 平均本金攤還法][1]
 * [1][2]
 
