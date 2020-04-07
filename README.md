@@ -16,12 +16,4 @@ Basic Info.
 * lANGUAGE : PYTHON
 </ol>
 
-<ul>
-<li>Bird</li>
-<li>Magic</li>
-</ul>
-
-<ul>
-<li><p>Bird</p></li>
-<li><p>Magic</p></li>
-</ul>
+1986. What a great season.
