@@ -3,7 +3,7 @@ Jlin8801
 
 > My Fun Fact: I am new in Github.
 > This repo is about financial engineering.
-
+***
 <ol>
 Basic Info.
 
@@ -15,6 +15,4 @@ Basic Info.
 
 * lANGUAGE : PYTHON
 </ol>
-
-1986. What a great season.
-1986\. What a great season.
+***
