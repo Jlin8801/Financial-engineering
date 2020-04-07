@@ -17,16 +17,16 @@ Basic Info.
 </ol>
 
 ***
-HW File
+HW1
 =======
 |HW   |  流程圖 | 學習歷程  | 程式碼|
 |:---:|  :---: | :---:   | :---: |
-|平均本利攤還法|
+|平均本利攤還法||||
 
-* [HW1 平均本金攤還法][1]
+* [AvgPriciple.py][1]
 * [1][2]
 
-[1]: https://markdown.tw/#autoescape "HW1 平均本金攤還法"
+[1]: https://github.com/Jlin8801/Financial-engineering/blob/master/作業一/AvgPrinciple.py "AvgPriciple.py"
 [2]: http://google.com/        "Google"
   
 ***
