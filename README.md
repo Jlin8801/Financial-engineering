@@ -1,10 +1,10 @@
-Jing Guo
+Jlin8801
 ========
-My Fun Fact: I am new in Github. Currently interested in financial engineering. Feel free to leave comments below.
+My Fun Fact: I am new in Github. This repo is about financial engineering.
 ========
-NAME: 林靖國 (Jerry)
+> NAME: 林靖國 (Jerry)
 
-StuID: B06703042
+> StuID: B06703042
 
 MAJOR: Finance Department
 
