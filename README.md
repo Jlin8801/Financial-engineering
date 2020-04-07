@@ -20,3 +20,4 @@ Basic Info.
 HW File
 =======
 * HW1 平均本金攤還法 [https://markdown.tw/#autoescape]
+[1]: http://google.com/        "Google"
