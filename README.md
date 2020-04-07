@@ -7,14 +7,18 @@ Jlin8801
 Basic Info.
 ========
 
-> * NAME : 林靖國 (Jerry)
->
-> * StUID : B06703042
->
-> * MAJOR : Finance
->
-> * lANGUAGE : PYTHON
+* NAME : 林靖國 (Jerry)
 
+* StUID : B06703042
 
+* MAJOR : Finance
+
+* lANGUAGE : PYTHON
+
+<ol>
+<li>Bird</li>
+<li>McHale</li>
+<li>Parish</li>
+</ol>
 
 
