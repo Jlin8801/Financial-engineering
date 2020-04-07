@@ -11,7 +11,7 @@ Jlin8801
 >
 > lANGUAGE : PYTHON
 
-*   Red
+> *   Red
 *   Green
 *   Blue
 
