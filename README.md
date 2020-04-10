@@ -19,7 +19,7 @@ Basic Info.
 ***
 **FILE**
 
-|HW         |Learning notes         |flowcharts           |code               |
+|HW         |Learning Notes         |FlowCharts           |Code               |
 |:---:      |:---------------------:|:------------------: |:---------------:  |
 |作業一      |[本金平均攤還_學習歷程][2]|[本金平均攤還＿流程圖][3]|[AvgPriciple.py][1]|
 |作業二      |[遠期利率＿學習歷程][5]   |[遠期利率＿流程圖][6]   |[Forwardrate.py][4]|
