@@ -23,7 +23,7 @@ Basic Info.
 |:---:      |:---------------------:|:------------------: |:---------------:  |
 |作業一      |[本金平均攤還_學習歷程][2]|[本金平均攤還＿流程圖][3]|[AvgPriciple.py][1]|
 |作業二      |[遠期利率＿學習歷程][5]   |[遠期利率＿流程圖][6]   |[Forwardrate.py][4]|
-|作業三      |[二項期權＿學習歷程][7]   |[二項期權＿流程圖][8]   |[bopm.py][9]       |
+|作業三      |[二項期權＿學習歷程][8]   |[二項期權＿流程圖][9]   |[bopm.py][7]       |
 
 [1]: https://github.com/Jlin8801/Financial-engineering/blob/master/作業一/AvgPrinciple.py "AvgPriciple.py"
 [2]: https://github.com/Jlin8801/Financial-engineering/blob/master/作業一/本金平均攤還_學習歷程.pdf  "本金平均攤還_學習歷程"
