@@ -9,8 +9,6 @@ R = float(input("Risk free interest rate: "))/100
 tao = float(input("Time span of the contract(in month): "))/12
 sigma = float(input("Return volatility: "))
 
-![Basic data](basic_data.jpg)
-
 #riskless dividends input
 Dividends = list()
 D_num = int(input("Number of annouced dividends: "))
