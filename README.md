@@ -7,13 +7,13 @@ Jlin8801
 <ol>
 Basic Info.
 
-* Name : 林靖國 Jerry
+* Name : 林靖國 Jingguo
 
-* StuId : B06703042
+* Student_id : B06703042
 
 * Major : Finance
 
-* Language : PYTHON
+* Language : python
 </ol>
 
 ***
